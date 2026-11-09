@@ -1,0 +1,10 @@
+{
+  "name": "Laura-Personal Assistance",
+  "description": "BetterSpeak AI English Speaking Tutor & Conversation Lab dengan AI Avatar Laura Thompson. Dilengkapi kuis diagnostik, simulasi percakapan, latihan pelafalan, dan kurikulum Modul English 01-02 PTIQ karya Abdul Muhit, M.Pd.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
